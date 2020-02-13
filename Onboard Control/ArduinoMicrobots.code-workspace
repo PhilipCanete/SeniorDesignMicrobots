@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/mnt/c/Users/19168/Documents/PlatformIO/Projects/ArduinoMicrobots/biosaw_lite"
+		},
+		{
+			"path": "/mnt/c/Users/19168/.platformio/packages/framework-arduinonordicnrf5"
+		},
+		{
+			"name": "ArduinoMicrobots",
+			"path": "/mnt/c/Users/19168/Documents/PlatformIO/Projects/ArduinoMicrobots"
+		}
+	],
+	"settings": {}
+}
